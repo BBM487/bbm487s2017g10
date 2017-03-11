@@ -1,6 +1,6 @@
 #bbm487s2017g10
-Hacettepe University Computer Engineering Departmant
-BBM 487 Software Engineering Laboratory
+Hacettepe University Computer Engineering Departmant - 
+BBM 487 Software Engineering Laboratory - 
 Library Book Loan System
 
 Project organization 
