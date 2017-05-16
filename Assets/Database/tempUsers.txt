@@ -1,0 +1,4 @@
+USERNAME PASSWORD MEMBERTYPE NAME SURNAME PHONE
+hulya@gmail.com 159753 MEMBER hulya karakas 5552223344
+sefa@gmail.com 11111 MEMBER sefa feruzoglu 5551114477
+gokser@gmail.com 9878 MEMBER gokser atli 5559998877

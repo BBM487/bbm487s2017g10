@@ -8,18 +8,13 @@ public class OpeningScene : MonoBehaviour {
 	void Start () {
 		
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 
 	public void Login(){
 		Application.LoadLevel ("Login");
 	}
 
 	public void CreateAccount(){
-		Application.LoadLevel ("AdminWindow");
+		Application.LoadLevel ("CreateAccount");
 	}
 
 	public void SearchBook(){
